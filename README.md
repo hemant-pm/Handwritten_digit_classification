@@ -1,4 +1,4 @@
-# 🧠 Handwritten Digit Classification using TensorFlow
+#  Handwritten Digit Classification using TensorFlow
 
 This project demonstrates how to build a simple **Feedforward Neural Network (FNN)** using TensorFlow and Keras to classify handwritten digits from the MNIST dataset.
 
@@ -27,7 +27,7 @@ This project demonstrates how to build a simple **Feedforward Neural Network (FN
 
 ---
 
-## 🧪 Example Prediction
+##  Example Prediction
 
 The model predicts handwritten digits. Example:
 
